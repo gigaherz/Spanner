@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+/Debug
+/Release
+/ipch
+
+*.user
+*.suo
+*.old
+/*.sdf
+/*.ncb
